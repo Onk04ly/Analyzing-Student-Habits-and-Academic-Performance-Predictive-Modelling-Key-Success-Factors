@@ -99,8 +99,7 @@ Linear Regression outperformed others (R²: 0.896), indicating predominantly lin
 Gradient Boosting and Random Forest performed well but did not significantly surpass Linear Regression.
 Decision Tree showed poor generalization (R²: 0.666) due to overfitting.
 
-Feature Importance
-
+Feature Importance:
 Linear Regression Coefficients:
 Study time: Strongest positive impact.
 Social media/Netflix hours: Negative impact (-2.0 and -2.3 points per hour).
@@ -113,13 +112,13 @@ Age, gender, diet quality, parental education: Minimal impact (<1%).
 
 
 
-Key Insights
-
+Key Insights:
+```
 Study time is the dominant predictor of academic success.
 Mental health and sleep (7-8 hours) positively influence performance.
 Social media and Netflix usage negatively affect grades.
 Background factors (e.g., gender, parental education) have negligible impact when habits are accounted for.
-
+```
 Dependencies
 Install required libraries using:
 ```
