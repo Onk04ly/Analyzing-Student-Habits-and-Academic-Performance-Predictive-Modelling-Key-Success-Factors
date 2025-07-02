@@ -57,7 +57,8 @@ Experiments
 Experiment 1: Simulated impact of increasing study hours on predicted exam scores.
 Experiment 2: Analyzed optimal sleep range (7-8 hours) for performance.
 
-Results
+Results:
+```
 Model Performance
 
 Model
@@ -88,7 +89,7 @@ Gradient Boosting
 5.531
 0.880
 
-
+```
 
 Linear Regression outperformed others (R²: 0.896), indicating predominantly linear relationships in the data.
 Gradient Boosting and Random Forest performed well but did not significantly surpass Linear Regression.
