@@ -1,11 +1,14 @@
 # Analyzing-Student-Habits-and-Academic-Performance-Predictive-Modelling-Key-Success-Factors
 This project analyzes a dataset of 10,000 university student records to predict academic performance (exam scores) and identify key influencing factors, such as study time, sleep hours, social media usage, and mental health. It implements and compares four regression models—Linear Regression, Decision Tree, Random Forest, and Gradient Boosting—using Python and scikit-learn, with comprehensive data preprocessing, exploratory data analysis (EDA), and model evaluation.
 
-Repository Structure
+Repository Structure:
+```
 ├── Main.ipynb              # Jupyter notebook with data analysis and modeling
 ├── data/                   # Directory for dataset (not included, synthetic data used)
 ├── requirements.txt        # Required Python libraries
 ├── README.md               # Project documentation
+
+```
 
 Dataset
 The dataset consists of 10,000 student records with the following features:
